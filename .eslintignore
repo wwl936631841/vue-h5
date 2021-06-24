@@ -1,0 +1,7 @@
+node_modules
+public
+tests
+script
+src/API/utils
+src/API/shared
+src/API/filter

@@ -1,0 +1,8 @@
+// https://github.com/michael-ciniawsky/postcss-load-config 设置示例
+module.exports = {
+  plugins: [
+    require('postcss-import'),
+    require('autoprefixer'),
+    require('./px2rem2vw.plugin')
+  ]
+}
